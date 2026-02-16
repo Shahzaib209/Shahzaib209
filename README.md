@@ -43,7 +43,6 @@ I am a passionate **AI Engineer** currently completing my final year in Artifici
 ### 📊Shahzaib's GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shahzaib209&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahzaib209&layout=compact&theme=tokyonight&hide=html,css,javascript,php" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaib209&theme=tokyonight" alt="GitHub Streak" />
